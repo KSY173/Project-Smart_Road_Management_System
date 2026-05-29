@@ -9,7 +9,6 @@ def main():
         batch=32,
         workers=0, 
 
-        # patience=20,  #과적합방지 (이후 epochs가 20번 돌렸음에도 성능향상x일시 조기종료 )
         optimizer="AdamW",
         amp=True,
         cos_lr=True,
@@ -30,6 +29,5 @@ def main():
     print(f"mAP50       : {metrics.results_dict.get('metrics/mAP50(B)', 'N/A')}")
     print(f"mAP50-95    : {metrics.results_dict.get('metrics/mAP50-95(B)', 'N/A')}")
 
-# 무한루프 방지용 넣어야함
 if __name__ == "__main__":
     main()
