@@ -9,23 +9,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/EDGE%20DEVICE-Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CAMERA-Intel%20RealSense%20D435i-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CAMERA-USB%20Webcam-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DISPLAY-XPT2046-222222?style=for-the-badge"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/MCU-Arduino%20MEGA%202560-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/COMMUNICATION-Serial-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LED-NeoPixel-FF1493?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DATABASE-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LABELING-AnyLabeling-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DATASET-Roboflow-6706CE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IMAGE%20PROCESSING-ROI%20Analysis-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ENVIRONMENT-On--Device-111111?style=for-the-badge"/>
 </p>
 Raspberry Pi 5 환경에서 YOLO 객체 탐지 모델과 OpenCV 영상처리를 활용하여  
 교통 상황을 실시간으로 분석하고, 위험 상황 또는 교통 위반 이벤트를 자동으로 감지하는 시스템입니다.
