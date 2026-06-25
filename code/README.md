@@ -1,4 +1,4 @@
-## 📄 best.onnx파일 [English README](./README.eng.md)
+## 📄 best.onnx파일 ([English README](./README.eng.md))
 
 ---
 
