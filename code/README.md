@@ -2,6 +2,8 @@
 
 ---
 
+[English README](./README.eng.md)
+
 ### [best.onnx](https://drive.google.com/file/d/1XqK4mp-QP13xLfzmXe0lj93abNRFLfwH/view?usp=sharing)
 
 
