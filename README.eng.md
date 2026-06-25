@@ -63,7 +63,7 @@ When an event occurs, the system captures images, stores event logs, and manages
 ## 🧠 System Workflow
 
 <p align="center">
-  <img src="./imgs/full_structure.png" width="850"><br>
+  <img src="./imgs/full_structure_english.png" width="850"><br>
   <b>Smart Traffic Management System Workflow</b>
 </p>
 
