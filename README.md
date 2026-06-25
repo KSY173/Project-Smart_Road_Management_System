@@ -1,5 +1,7 @@
 # 🚦 AI 기반 스마트 교통 관리 시스템 ( Smart Traffic Management System)
 
+[English README](./README.eng.md)
+
 <p>
   <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20MODEL-YOLOv8-00FFFF?style=for-the-badge"/>
