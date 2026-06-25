@@ -1,8 +1,6 @@
-## 📄 best.onnx파일
+## 📄 best.onnx파일 [English README](./README.eng.md)
 
 ---
-
-[English README](./README.eng.md)
 
 ### [best.onnx](https://drive.google.com/file/d/1XqK4mp-QP13xLfzmXe0lj93abNRFLfwH/view?usp=sharing)
 
